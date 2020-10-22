@@ -1,5 +1,5 @@
-# CAPSTONE-PROJECT--Jobs
+# CAPSTONE-PROJECT-Career Hunter
 
-https://middlemanapp.com/
-https://reactjs.org/
+https://middlemanapp.com/<br>
+https://reactjs.org/<br>
 https://jobs.github.com/api
